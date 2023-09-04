@@ -43,5 +43,6 @@ I encourage users to provide feedback, report issues, or share suggestions for i
 The EV controller Application is released under the MIT License. Refer to the LICENSE file in the repository for more information.
 
 ## Demo
+![KnJ2HHSZeinM_2048_1000](https://github.com/Thepilli/EV_controller_app/assets/104307512/d984195a-c35a-46f9-a614-2014dd0e3d1a)
 
 ![Alt text](<assets/screenshots/screen (1).png>)![Alt text](<assets/screenshots/screen (2).png>)![Alt text](<assets/screenshots/screen (3).png>)
