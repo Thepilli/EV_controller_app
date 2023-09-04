@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
         splitScreenMode: true,
         builder: (context, child) {
           return MaterialApp(
+            debugShowCheckedModeBanner: false,
             title: 'Tesla Controller',
             theme: ThemeData(
               brightness: Brightness.dark,
